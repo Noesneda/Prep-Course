@@ -1,0 +1,10 @@
+#thirdDiv {
+            height: 600px;
+             width: 500px; 
+             background-color: rgb(178, 51, 134);
+             padding: 50px;
+             border: solid 10px; 
+             border-color: rgb(121, 61, 173);
+             border-radius: 30px;}
+#spanId {
+             margin: 50px;}
